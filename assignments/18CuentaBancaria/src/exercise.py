@@ -1,6 +1,6 @@
 def main():
-    #Hola!
-
+    #Placeholder
+    pass
 
 if __name__ == '__main__':
     main()
